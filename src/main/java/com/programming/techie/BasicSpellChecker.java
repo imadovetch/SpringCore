@@ -1,6 +1,8 @@
 package com.programming.techie;
 
-//@Component
+import org.springframework.stereotype.Component;
+
+@Component
 //@Primary
 class BasicSpellChecker implements SpellChecker {
 
